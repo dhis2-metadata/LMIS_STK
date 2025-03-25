@@ -1,6 +1,6 @@
-# Hepatitis Installation Guide { #hep-agg-installation }
+# LMIS Installation Guide { #lmis-stk-installation }
 
-This document includes an installation guide for the Hepatitis package.
+This document includes an installation guide for the LMIS package.
 
 System default language: English
 
@@ -10,8 +10,8 @@ The metadata reference and metadata json files provide technical details on pack
 
 The metadata package consists of the following modules:
 
-- Hepatitis
-- Hepatitis  (dashboard)
+- LMIS: stock report
+- LMIS: stock report (dashboard)
 
 ## Installation
 
@@ -87,7 +87,7 @@ contains the UIDs which could be replaced, as well as the API endpoints to ident
 | Object                  | UID           | API endpoint                                                             |
 |-------------------------|---------------|--------------------------------------------------------------------------|
 | Percentage              | `hmSnCXmLYwt` | `../api/indicatorTypes.json?filter=number:eq:false&filter=factor:eq:100` |
-| Numerator only (number) | `CqNPn5KzksS` | `../api/indicatorTypes.json?filter=number:eq:true&filter=factor:eq:1`    |
+| Rate (factor=1) | `k4RGC3sMTzO` | `../api/indicatorTypes.json?filter=number:eq:true&filter=factor:eq:1`    |
 
 ### Visualizations using Root Organisation Unit UID
 
@@ -169,9 +169,9 @@ Please refer to the [DHIS2 documentation](#sharing) for more information on shar
 
 Three core user groups are included in the packages:
 
-- NTD - Access (view metadata/view data)
-- NTD - Admin (view and edit metadata/no access to data)
-- NTD - Data Capture - (view metadata/capture and view data)
+- LMIS - Access (view metadata/view data)
+- LMIS - Admin (view and edit metadata/no access to data)
+- LMIS - Data Capture - (view metadata/capture and view data)
 
 The users are assigned to the appropriate user group based on their role within the system. Sharing for other objects in
 the package may be adjusted depending on the set-up. Refer to the [DHIS2 Documentation on sharing](#sharing) for more
