@@ -1,19 +1,19 @@
-# Hepatitis
+# LMIS
 
 ## Release Note
 
-- [Release Note](#hep-agg-release-note)
+- [Release Note](#lmis-stk-release-note)
 
 ## Design
 
-- [Version 1.0.0](#hep-agg-design)
+- [Version 1.0.0](#lmis-stk-design)
 
 ## Installation
 
-- [Installation Guide](#hep-agg-installation)
+- [Installation Guide](#lmis-stk-installation)
 
 ## Metadata Reference
 
-- [Version 1.0.0](https://packages.dhis2.org/en/HEP_AGG/1.0.0/DHIS2.40/HEP_AGG_COMPLETE_1.0.0_DHIS2.40.xlsx)
+- [Version 1.0.0]()
 
 ## Resources
