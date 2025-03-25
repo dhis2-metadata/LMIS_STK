@@ -1633,16 +1633,10 @@
                     "id": "uwMeowkIpKS"
                 },
                 {
-                    "id": "vgH1WhOaxiT"
-                },
-                {
                     "id": "JyTDr8zatqY"
                 },
                 {
                     "id": "ij3ZeNEcwAJ"
-                },
-                {
-                    "id": "XqaGcWuG9MK"
                 },
                 {
                     "id": "XxXQc3eRIly"
@@ -1654,19 +1648,10 @@
                     "id": "BID9ZnOeId8"
                 },
                 {
-                    "id": "o73BwxWBdvr"
-                },
-                {
                     "id": "UtMA5IQiOPs"
                 },
                 {
-                    "id": "Hs0aQvAGaU8"
-                },
-                {
                     "id": "U6DsWg3qiUW"
-                },
-                {
-                    "id": "mt8NQQmF5ec"
                 },
                 {
                     "id": "tiYEQR62edg"
@@ -1675,16 +1660,31 @@
                     "id": "gx9GRvr4nFK"
                 },
                 {
-                    "id": "WuLEhXQgozU"
-                },
-                {
-                    "id": "Lw954VKLWaW"
-                },
-                {
                     "id": "howwGYC2Xkv"
                 },
                 {
                     "id": "pZjcfOzIflN"
+                },
+                {
+                    "id": "vgH1WhOaxiT"
+                },
+                {
+                    "id": "XqaGcWuG9MK"
+                },
+                {
+                    "id": "o73BwxWBdvr"
+                },
+                {
+                    "id": "Hs0aQvAGaU8"
+                },
+                {
+                    "id": "mt8NQQmF5ec"
+                },
+                {
+                    "id": "WuLEhXQgozU"
+                },
+                {
+                    "id": "Lw954VKLWaW"
                 }
             ],
             "id": "ILKmtycCCVN",
@@ -2530,63 +2530,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "uwMeowkIpKS"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "o73BwxWBdvr"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Lw954VKLWaW"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "a1slqZD0nKy"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "s9aUZR1U3XG"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WuLEhXQgozU"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "howwGYC2Xkv"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vgH1WhOaxiT"
+                        "id": "BID9ZnOeId8"
                     },
                     "dataSet": {
                         "id": "J0YbcRt9Dwf"
@@ -2602,39 +2546,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UtMA5IQiOPs"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "XqaGcWuG9MK"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ij3ZeNEcwAJ"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gx9GRvr4nFK"
-                    },
-                    "dataSet": {
-                        "id": "J0YbcRt9Dwf"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pZjcfOzIflN"
+                        "id": "s9aUZR1U3XG"
                     },
                     "dataSet": {
                         "id": "J0YbcRt9Dwf"
@@ -2650,6 +2562,14 @@
                 },
                 {
                     "dataElement": {
+                        "id": "o73BwxWBdvr"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "U6DsWg3qiUW"
                     },
                     "dataSet": {
@@ -2658,7 +2578,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "mt8NQQmF5ec"
+                        "id": "XqaGcWuG9MK"
                     },
                     "dataSet": {
                         "id": "J0YbcRt9Dwf"
@@ -2666,7 +2586,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Hs0aQvAGaU8"
+                        "id": "Lw954VKLWaW"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gx9GRvr4nFK"
                     },
                     "dataSet": {
                         "id": "J0YbcRt9Dwf"
@@ -2682,7 +2610,79 @@
                 },
                 {
                     "dataElement": {
-                        "id": "BID9ZnOeId8"
+                        "id": "UtMA5IQiOPs"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "a1slqZD0nKy"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Hs0aQvAGaU8"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vgH1WhOaxiT"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uwMeowkIpKS"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WuLEhXQgozU"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pZjcfOzIflN"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mt8NQQmF5ec"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "howwGYC2Xkv"
+                    },
+                    "dataSet": {
+                        "id": "J0YbcRt9Dwf"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ij3ZeNEcwAJ"
                     },
                     "dataSet": {
                         "id": "J0YbcRt9Dwf"
@@ -2901,16 +2901,16 @@
             "id": "VGfoXGDI0xR",
             "indicators": [
                 {
-                    "id": "LSXBZkenyM0"
-                },
-                {
-                    "id": "pmWRuUHabDe"
-                },
-                {
                     "id": "FhgA3zYaRgN"
                 },
                 {
                     "id": "xJErRkiiP1O"
+                },
+                {
+                    "id": "LSXBZkenyM0"
+                },
+                {
+                    "id": "pmWRuUHabDe"
                 },
                 {
                     "id": "sjOzFQ2wFik"
@@ -4320,6 +4320,25 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#FEFB08",
+                    "endValue": 3.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "tXaYa3zgXri",
+                    "name": "Understock",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0001,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#0BFF00",
                     "endValue": 4.0,
                     "externalAccess": false,
@@ -4352,25 +4371,6 @@
                         "users": {}
                     },
                     "startValue": 4.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FEFB08",
-                    "endValue": 3.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "tXaYa3zgXri",
-                    "name": "Understock",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0001,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -4618,12 +4618,12 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "lV2K99UDqPb",
+                    "id": "a7cVMXxqpcz",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
-                    "name": "lV2K99UDqPb",
+                    "name": "a7cVMXxqpcz",
                     "opacity": 1.0,
                     "organisationUnitColor": "#26A269",
                     "organisationUnitGroupSetDimensions": [],
@@ -4673,22 +4673,18 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "TvLb5ieNN7Y",
+                    "id": "DhFxAUoXBvV",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "labelFontSize": "15px",
                     "labels": true,
                     "layer": "facility",
-                    "name": "TvLb5ieNN7Y",
+                    "name": "DhFxAUoXBvV",
                     "opacity": 1.0,
                     "organisationUnitColor": "#1A5FB4",
                     "organisationUnitGroupSetDimensions": [],
                     "organisationUnitLevels": [],
-                    "organisationUnits": [
-                        {
-                            "id": "J41dVMJoZF7"
-                        }
-                    ],
+                    "organisationUnits": [],
                     "parentGraphMap": {},
                     "parentLevel": 0,
                     "periods": [],
@@ -4775,7 +4771,7 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "CTlsqURh9iZ",
+                    "id": "X6pmXoDamgZ",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
@@ -4880,11 +4876,11 @@
                     "filters": [],
                     "hideSubtitle": false,
                     "hideTitle": false,
-                    "id": "MHWf89AMk41",
+                    "id": "VjEYshT2EW3",
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
-                    "name": "MHWf89AMk41",
+                    "name": "VjEYshT2EW3",
                     "opacity": 1.0,
                     "organisationUnitColor": "#26A269",
                     "organisationUnitGroupSetDimensions": [],
@@ -4909,8 +4905,8 @@
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": [],
-                    "userOrganisationUnit": false,
-                    "userOrganisationUnitChildren": true,
+                    "userOrganisationUnit": true,
+                    "userOrganisationUnitChildren": false,
                     "userOrganisationUnitGrandChildren": false
                 }
             ],
@@ -5754,7 +5750,7 @@
         "description": "LMIS: stock report",
         "healthAreaCode": "LMIS",
         "healthAreaName": "LMIS",
-        "lastUpdated": "20250325T121025",
+        "lastUpdated": "20250325T150323",
         "locale": "en",
         "name": "LMIS_STK_AGG_DHIS2.40.5-en",
         "type": "AGG",
