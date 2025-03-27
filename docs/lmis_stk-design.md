@@ -41,7 +41,7 @@ Health facilities will use the LMIS toolkit for recording, editing, sharing and 
 
 The LMIS toolkit consists of a single Data set with a corresponding Data entry form.
 
-![Monthly stock report - Data Entry form](resources/image/Monthly stock report - Data Entry form.png)
+![Monthly stock report - Data Entry form](resources/images/Monthly stock report - Data Entry form.png)
 
 The "LMIS - Monthly stock report" Data set lists the catalogue of medical products which are regularly used at health facilities and the Data entry form indicates all the selected Data elements.
 Users can maintain a single Data set for the entire country or configure additional Data sets for individual health programmes (malaria, tuberculosis, immunisation etc.) or for different levels of care. For example separate Data sets for community health, primary health care or hospital care.
@@ -51,25 +51,25 @@ Each of the three transactions (receipt, distribution and discard) as well as th
 
 #### Stock receipt
 
-![Monthly stock report - Stock receipt](resources/image/Monthly stock report - Stock receipt.png)
+![Monthly stock report - Stock receipt](resources/images/Monthly stock report - Stock receipt.png)
 
 The table was configured with individual data elements.
 
 #### Stock distribution
 
-![Monthly stock report - Stock distribution](resources/image/Monthly stock report - Stock distribution.png)
+![Monthly stock report - Stock distribution](resources/images/Monthly stock report - Stock distribution.png)
 
 The table was configured with individual data elements.
 
 #### Stock discard
 
-![Monthly stock report - Stock discard](resources/image/Monthly stock report - Stock discard.png)
+![Monthly stock report - Stock discard](resources/images/Monthly stock report - Stock discard.png)
 
 The table was configured with individual data elements.
 
 #### Stock on hand
 
-![Monthly stock report - Stock on hand](resources/image/Monthly stock report - Stock on hand.png)
+![Monthly stock report - Stock on hand](resources/images/Monthly stock report - Stock on hand.png)
 
 The table was configured with individual data elements.
 
@@ -113,7 +113,7 @@ DHIS2 natively allows filtering any visualisation by Organisation Unit (health f
 - LMIS - Facility level - Visualisation library
 - LMIS - Health facility level - Analytics
 
-![LMIS - Monthly stock report - Analytics and visualisations](resources/image/LMIS - Monthly stock report - Analytics and visualisations.xlsx)
+![LMIS - Monthly stock report - Analytics and visualisations](resources/images/LMIS - Monthly stock report - Analytics and visualisations.xlsx)
 
 ## User groups
 
