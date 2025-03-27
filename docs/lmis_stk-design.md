@@ -41,7 +41,7 @@ Health facilities will use the LMIS toolkit for recording, editing, sharing and 
 
 The LMIS toolkit consists of a single Data set with a corresponding Data entry form.
 
-![Monthly stock report - Data Entry form](resources/images/Monthly stock report - Data Entry form.png)
+![Monthly stock report - Data Entry form](resources/images/monthly_stock_report_data_entry_form.png)
 
 The "LMIS - Monthly stock report" Data set lists the catalogue of medical products which are regularly used at health facilities and the Data entry form indicates all the selected Data elements.
 Users can maintain a single Data set for the entire country or configure additional Data sets for individual health programmes (malaria, tuberculosis, immunisation etc.) or for different levels of care. For example separate Data sets for community health, primary health care or hospital care.
@@ -51,25 +51,25 @@ Each of the three transactions (receipt, distribution and discard) as well as th
 
 #### Stock receipt
 
-![Monthly stock report - Stock receipt](resources/images/Monthly stock report - Stock receipt.png)
+![Monthly stock report - Stock receipt](resources/images/monthly_stock_report_stock_receipt.png)
 
 The table was configured with individual data elements.
 
 #### Stock distribution
 
-![Monthly stock report - Stock distribution](resources/images/Monthly stock report - Stock distribution.png)
+![Monthly stock report - Stock distribution](resources/images/monthly_stock_report_stock_distribution.png)
 
 The table was configured with individual data elements.
 
 #### Stock discard
 
-![Monthly stock report - Stock discard](resources/images/Monthly stock report - Stock discard.png)
+![Monthly stock report - Stock discard](resources/images/monthly_stock_report_stock_discard.png)
 
 The table was configured with individual data elements.
 
 #### Stock on hand
 
-![Monthly stock report - Stock on hand](resources/images/Monthly stock report - Stock on hand.png)
+![Monthly stock report - Stock on hand](resources/images/monthly_stock_report_stock_on_hand.png)
 
 The table was configured with individual data elements.
 
