@@ -115,7 +115,7 @@ DHIS2 natively allows filtering any visualisation by Organisation Unit (health f
 
 ![LMIS - Monthly stock report - Analytics and visualisations](resources/images/dashboard.png)
 
-![Here](resources/files/monthly_stock_report_analytics_visualisations.xlsx) you can find a detailed list of the visualisations divided by dashboard
+[Here](resources/files/monthly_stock_report_analytics_visualisations.xlsx) you can find a detailed list of the visualisations divided by dashboard
 
 ## User groups
 
